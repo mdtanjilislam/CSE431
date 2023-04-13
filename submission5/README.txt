@@ -9,7 +9,7 @@ Paper title:
 Banglish food review sentiment analysis
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1VZS_UPTiqMN3Fq_VRsL0BHWQQPoYUb2igsUYaK8LTM0/edit#slide=id.g2185a7c293f_0_171
 
 
 Group Number:
