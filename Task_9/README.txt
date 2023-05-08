@@ -18,7 +18,7 @@ did project:
 
 Fake News Detection
 
-did something else
+did something else:
 
 Manually Data Cleaning
 Similar project paper review
